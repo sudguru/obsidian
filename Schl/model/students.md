@@ -1,0 +1,13 @@
+id
+uid
+name
+dob
+edob
+initial_balance
+address
+father_name
+father_phone
+father_email
+mother_name
+mother_phone
+mother_email
